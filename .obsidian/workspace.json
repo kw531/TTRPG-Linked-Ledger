@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session_Notes/Session_Notes.md",
+                "file": "Compendium/Atlas/Atlas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session_Notes"
-            }
-          },
-          {
-            "id": "462f278d00b0b9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/Party/Player Characters/Klink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Klink"
-            }
-          },
-          {
-            "id": "0018ed81b4ae6a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/NPCs/Noteworthy Folk/Phillip Druskenvald.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phillip Druskenvald"
+              "title": "Atlas"
             }
           }
         ]
@@ -208,6 +180,16 @@
   },
   "active": "63c01fc924c22f67",
   "lastOpenFiles": [
+    "Compendium/Villains/Villains.md",
+    "Compendium/Party/Rumors/Rumors.md",
+    "Compendium/Party/Quests/Quests.md",
+    "Compendium/Party/Player Characters/Player Characters.md",
+    "Compendium/Lore/Objects & Items/Objects & Items.md",
+    "Compendium/Lore/Myths/Myths.md",
+    "Compendium/Lore/Events/Events.md",
+    "Compendium/Lore/Deities/Deities.md",
+    "Compendium/Lore/Lore.md",
+    "Compendium/Atlas/Atlas.md",
     "Session_Notes/Session_01.md",
     "Session_Notes/Session_Notes.md",
     "Compendium/Party/Player Characters/Betty the White.md",
@@ -225,21 +207,11 @@
     "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Untitled.md",
     "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Gandorhal.md",
     "Templates/Note Template.md",
-    "Compendium/NPCs/Noteworthy Folk/Adela Druskenvald.md",
-    "Templates/Session Notes Box.md",
-    "Templates/Session_Template.md",
-    "Nat 20 to Nat 1.md",
     "Templates/scripts/decrement_crit_success.js",
     "Templates/scripts/decrement_crit_fail.js",
     "Templates/scripts/adjust_counter.js",
     "Templates/scripts/increment_crit_success.js",
     "Templates/scripts/increment_crit_fail.js",
-    "Compendium/Villians/Coven of the Midnight Moon/Sister Effigy.md",
-    "Compendium/Atlas/Druskenvald/Astramar/Astramar.md",
-    "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Gandorhal College of the Arcane Arts.md",
-    "Compendium/Villians/Coven of the Midnight Moon/Mother Midnight.md",
-    "Compendium/Villians/Coven of the Midnight Moon/Sister Antic.md",
-    "Compendium/Villians/Coven of the Midnight Moon/Sister Fathom.md",
     "Templates/scripts/insert_session_box.js",
     "Templates/scripts/next_session - Copy.js",
     "Compendium/Villians/Coven of the Midnight Moon",
