@@ -3,6 +3,7 @@
 
 This repository contains a customized **Obsidian** vault designed for running and tracking tabletop RPG campaigns without a lot of fluff. I prefer function over form, so it's very bare bones but has some nice automated features.
 It includes automated note creation, session linking, and visual enhancements to make campaign management faster and more immersive.
+
 <img width="480" height="285" alt="image" src="https://github.com/user-attachments/assets/c383f2de-aa7c-4e1c-91ad-5016ae6db9c6" />
 <img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/891212f1-dbbe-46c0-b032-282ce63415d9" />
 
