@@ -1,0 +1,13 @@
+---
+aliases:
+  - Betty
+---
+Out to destroy [[Alaric Vane]]
+
+
+```dataview
+table date as "Date"
+from "Session_Notes"
+where contains(file.outlinks, this.file.link) and contains(file.tags, "session")
+sort session_number desc
+```

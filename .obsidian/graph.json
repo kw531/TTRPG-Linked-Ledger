@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": " -path:Session_Notes  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Compendium/Villians  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Compendium/Party/Player Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "path:Compendium/Atlas  ",
+      "color": {
+        "a": 1,
+        "rgb": 8881663
+      }
+    },
+    {
+      "query": "path: Compendium/NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775214
+      }
+    },
+    {
+      "query": "Path:Compendium/Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753485
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.13942739121145,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000000000002,
+  "close": false
+}

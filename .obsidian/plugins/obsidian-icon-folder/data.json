@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaCrownedHeart",
+      "FasCrown",
+      "FasBurst",
+      "TiCrown",
+      "LiPersonStanding"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Compendium/Party/Player Characters": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#0ecc00"
+  },
+  "Compendium/NPCs": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#f0ff24"
+  },
+  "Compendium/Atlas": {
+    "iconName": "LiMapPin",
+    "iconColor": "#007bff"
+  },
+  "Compendium/Party/Quests": {
+    "iconName": "TiShield",
+    "iconColor": "#f34dff"
+  },
+  "Compendium/Party/Rumors": {
+    "iconName": "TiEyeQuestion",
+    "iconColor": "#ff85d8"
+  },
+  "Compendium/Lore": {
+    "iconName": "LiBookKey",
+    "iconColor": "#ffa629"
+  },
+  "Compendium/Atlas/Druskenvald/Astramar": {
+    "iconName": "LiMapPin",
+    "iconColor": "#5842ff"
+  },
+  "Compendium/Party/Player Characters/Klink.md": {
+    "iconName": "LiBird",
+    "iconColor": "#00ff1e"
+  },
+  "Compendium/Party/Player Characters/Lina.md": {
+    "iconName": "TiHorseToy",
+    "iconColor": "#00ff1e"
+  },
+  "Compendium/Party/Player Characters/Lucien Vaduv.md": {
+    "iconName": "TiBat",
+    "iconColor": "#00ff1e"
+  },
+  "Compendium/Party/Player Characters/Flint Moulder.md": {
+    "iconName": "LiRat",
+    "iconColor": "#00ff1e"
+  },
+  "Compendium/Atlas/Ghostlight Express": {
+    "iconName": "FasTrainSubway",
+    "iconColor": "#b3b8ff"
+  },
+  "Compendium/NPCs/Noteworthy Folk": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#ffa424"
+  },
+  "Compendium/Lore/Deities": {
+    "iconName": "TiCrown",
+    "iconColor": "#ff9214"
+  },
+  "Compendium/Lore/Events": {
+    "iconName": "FasBurst",
+    "iconColor": "#ffaf24"
+  },
+  "Compendium/NPCs/Noteworthy Folk/The Vagrant.md": {
+    "iconName": "FasFrog",
+    "iconColor": "#dbff29"
+  },
+  "Compendium/NPCs/Noteworthy Folk/Phillip Druskenvald.md": {
+    "iconName": "FasCrown",
+    "iconColor": "#ffa424"
+  },
+  "Compendium/NPCs/Noteworthy Folk/Adela Druskenvald.md": {
+    "iconName": "RaCrownedHeart",
+    "iconColor": "#ff9633"
+  },
+  "Compendium/Villains": {
+    "iconName": "RiSwordFill",
+    "iconColor": "#ff0505"
+  },
+  "Session_Notes": "TiNotebook"
+}

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "dce00ed8c86e480c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8514c5fd325dee37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c01fc924c22f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session_Notes/Session_Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session_Notes"
+            }
+          },
+          {
+            "id": "462f278d00b0b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Party/Player Characters/Klink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klink"
+            }
+          },
+          {
+            "id": "0018ed81b4ae6a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/NPCs/Noteworthy Folk/Phillip Druskenvald.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phillip Druskenvald"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a77e0fb80815e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "6347525a2315ad6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00031942742bb744",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5baf15a7cb3f7fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22aa954d84a744da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "4c789f86f316a6e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55108295cf92244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914a82eca888d750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bdb587e9ac11af60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Compendium/Lore/Deities/Horned King.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Horned King"
+            }
+          },
+          {
+            "id": "914246136ef61162",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "085bebc85882c286",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Compendium/Lore/Deities/Horned King.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Horned King"
+            }
+          },
+          {
+            "id": "6f8deb08a0c59738",
+            "type": "leaf",
+            "state": {
+              "type": "hierarchical-backlinks",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "63c01fc924c22f67",
+  "lastOpenFiles": [
+    "Session_Notes/Session_01.md",
+    "Session_Notes/Session_Notes.md",
+    "Compendium/Party/Player Characters/Betty the White.md",
+    "Compendium/Villains/Alaric Vane.md",
+    "Compendium/Lore/Deities/Untitled.md",
+    "README.md",
+    "Crooked_Moon_Notes",
+    "Compendium/Party/Player Characters/Klink.md",
+    "Compendium/Party/Player Characters/Flint Moulder.md",
+    "Compendium/Party/Player Characters/Lucien Vaduv.md",
+    "Compendium/Party/Player Characters/Lina.md",
+    "Compendium/NPCs/Noteworthy Folk/Phillip Druskenvald.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Lunarium/Lunarium.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Lunarium/Untitled.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Untitled.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Gandorhal.md",
+    "Templates/Note Template.md",
+    "Compendium/NPCs/Noteworthy Folk/Adela Druskenvald.md",
+    "Templates/Session Notes Box.md",
+    "Templates/Session_Template.md",
+    "Nat 20 to Nat 1.md",
+    "Templates/scripts/decrement_crit_success.js",
+    "Templates/scripts/decrement_crit_fail.js",
+    "Templates/scripts/adjust_counter.js",
+    "Templates/scripts/increment_crit_success.js",
+    "Templates/scripts/increment_crit_fail.js",
+    "Compendium/Villians/Coven of the Midnight Moon/Sister Effigy.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Astramar.md",
+    "Compendium/Atlas/Druskenvald/Astramar/Gandorhal/Gandorhal College of the Arcane Arts.md",
+    "Compendium/Villians/Coven of the Midnight Moon/Mother Midnight.md",
+    "Compendium/Villians/Coven of the Midnight Moon/Sister Antic.md",
+    "Compendium/Villians/Coven of the Midnight Moon/Sister Fathom.md",
+    "Templates/scripts/insert_session_box.js",
+    "Templates/scripts/next_session - Copy.js",
+    "Compendium/Villians/Coven of the Midnight Moon",
+    "Compendium/NPCs/Noteworthy Folk"
+  ]
+}
