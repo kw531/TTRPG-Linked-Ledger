@@ -1,7 +1,11 @@
 # Obsidian TTRPG Linked Ledger
 
+
 This repository contains a customized **Obsidian** vault designed for running and tracking tabletop RPG campaigns without a lot of fluff. I prefer function over form, so it's very bare bones but has some nice automated features.
 It includes automated note creation, session linking, and visual enhancements to make campaign management faster and more immersive.
+
+<img width="480" height="285" alt="image" src="https://github.com/user-attachments/assets/c383f2de-aa7c-4e1c-91ad-5016ae6db9c6" />
+<img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/891212f1-dbbe-46c0-b032-282ce63415d9" />
 
 ---
 
@@ -35,6 +39,7 @@ It contains lore, locations, characters, and campaign details, organized into su
   - Create a new session note file.
   - Increment the session number (e.g., `Session_01`, `Session_02`, etc.).
   - Set the date property automatically.
+<img width="480" height="267" alt="image" src="https://github.com/user-attachments/assets/10518811-e01a-47ce-aea0-6e3cffa408cb" />
 
 ---
 
@@ -54,6 +59,8 @@ If "Alaric Vane" is mentioned in `Session_01`, the "Alaric Vane" note in **Villa
 The **Obsidian Graph View** has been customized:
 - Parent folders are represented by **icons** instead of the default circular nodes.
 - This makes it easier to visually navigate by category (e.g., 📜 for Lore, 🎭 for NPCs).
+- Used in parallel with Extended Graph View to use these icons instead of circle nodes.
+<img width="480" height="475" alt="image" src="https://github.com/user-attachments/assets/94b88b59-56d2-4e56-8611-a0926734c57f" />
 
 ---
 ## 🔌 Community Plugins Used
@@ -91,10 +98,7 @@ This vault uses the following community plugins to power automation, linking, an
 
 1. **Clone or download** this vault from GitHub.
 2. Open in **Obsidian**.
-3. Install the following community plugins (if not already installed):
-   - **Dataview**
-   - **Templater**
-   - **Folder Icons** (or equivalent)
+3. Install and enable the Community Plugins (if not installed)
 4. Click the **New Session Note** button to start logging sessions.
 5. Use the **Compendium** for world-building and reference.
 
